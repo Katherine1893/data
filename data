@@ -1,0 +1,226 @@
+[
+  {
+    "state": "AK",
+    "positive": 18699
+  },
+  {
+    "state": "AL",
+    "positive": 200714
+  },
+  {
+    "state": "AR",
+    "positive": 119230
+  },
+  {
+    "state": "AS",
+    "positive": 0
+  },
+  {
+    "state": "AZ",
+    "positive": 254764
+  },
+  {
+    "state": "CA",
+    "positive": 951094
+  },
+  {
+    "state": "CO",
+    "positive": 121006
+  },
+  {
+    "state": "CT",
+    "positive": 78125
+  },
+  {
+    "state": "DC",
+    "positive": 17792
+  },
+  {
+    "state": "DE",
+    "positive": 26035
+  },
+  {
+    "state": "FL",
+    "positive": 821526
+  },
+  {
+    "state": "GA",
+    "positive": 370106
+  },
+  {
+    "state": "GU",
+    "positive": 5077
+  },
+  {
+    "state": "HI",
+    "positive": 15785
+  },
+  {
+    "state": "IA",
+    "positive": 133510
+  },
+  {
+    "state": "ID",
+    "positive": 69579
+  },
+  {
+    "state": "IL",
+    "positive": 465540
+  },
+  {
+    "state": "IN",
+    "positive": 200823
+  },
+  {
+    "state": "KS",
+    "positive": 97633
+  },
+  {
+    "state": "KY",
+    "positive": 117505
+  },
+  {
+    "state": "LA",
+    "positive": 191715
+  },
+  {
+    "state": "MA",
+    "positive": 167274
+  },
+  {
+    "state": "MD",
+    "positive": 151505
+  },
+  {
+    "state": "ME",
+    "positive": 7444
+  },
+  {
+    "state": "MI",
+    "positive": 222509
+  },
+  {
+    "state": "MN",
+    "positive": 170307
+  },
+  {
+    "state": "MO",
+    "positive": 200507
+  },
+  {
+    "state": "MP",
+    "positive": 98
+  },
+  {
+    "state": "MS",
+    "positive": 124854
+  },
+  {
+    "state": "MT",
+    "positive": 37947
+  },
+  {
+    "state": "NC",
+    "positive": 288569
+  },
+  {
+    "state": "ND",
+    "positive": 51602
+  },
+  {
+    "state": "NE",
+    "positive": 78012
+  },
+  {
+    "state": "NH",
+    "positive": 12012
+  },
+  {
+    "state": "NJ",
+    "positive": 249380
+  },
+  {
+    "state": "NM",
+    "positive": 51110
+  },
+  {
+    "state": "NV",
+    "positive": 106922
+  },
+  {
+    "state": "NY",
+    "positive": 522021
+  },
+  {
+    "state": "OH",
+    "positive": 240178
+  },
+  {
+    "state": "OK",
+    "positive": 131751
+  },
+  {
+    "state": "OR",
+    "positive": 48608
+  },
+  {
+    "state": "PA",
+    "positive": 223950
+  },
+  {
+    "state": "PR",
+    "positive": 70519
+  },
+  {
+    "state": "RI",
+    "positive": 36380
+  },
+  {
+    "state": "SC",
+    "positive": 182872
+  },
+  {
+    "state": "SD",
+    "positive": 52639
+  },
+  {
+    "state": "TN",
+    "positive": 273144
+  },
+  {
+    "state": "TX",
+    "positive": 942539
+  },
+  {
+    "state": "UT",
+    "positive": 127279
+  },
+  {
+    "state": "VA",
+    "positive": 188770
+  },
+  {
+    "state": "VI",
+    "positive": 1390
+  },
+  {
+    "state": "VT",
+    "positive": 2326
+  },
+  {
+    "state": "WA",
+    "positive": 112550
+  },
+  {
+    "state": "WI",
+    "positive": 269982
+  },
+  {
+    "state": "WV",
+    "positive": 27087
+  },
+  {
+    "state": "WY",
+    "positive": 16405
+  }
+]
